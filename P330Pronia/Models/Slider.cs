@@ -5,6 +5,9 @@ namespace P330Pronia.Models
 {
     public class Slider
 
+
+
+        
     {
         public int id { get; set; }
         [System.ComponentModel.DataAnnotations.Required, MaxLength(100)]
